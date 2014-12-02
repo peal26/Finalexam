@@ -1,4 +1,4 @@
-class BankAccount
+class Finalexam
 	
 	def initialize(money)
 		@count=0
